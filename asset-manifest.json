@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wificode/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/wificode/static/js/main.bbd7c9ba.chunk.js",
+    "main.js.map": "/wificode/static/js/main.bbd7c9ba.chunk.js.map",
+    "runtime-main.js": "/wificode/static/js/runtime-main.27236406.js",
+    "runtime-main.js.map": "/wificode/static/js/runtime-main.27236406.js.map",
+    "static/js/2.046b4eed.chunk.js": "/wificode/static/js/2.046b4eed.chunk.js",
+    "static/js/2.046b4eed.chunk.js.map": "/wificode/static/js/2.046b4eed.chunk.js.map",
+    "static/js/3.c794f97c.chunk.js": "/wificode/static/js/3.c794f97c.chunk.js",
+    "static/js/3.c794f97c.chunk.js.map": "/wificode/static/js/3.c794f97c.chunk.js.map",
+    "index.html": "/wificode/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/wificode/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.046b4eed.chunk.js.LICENSE.txt": "/wificode/static/js/2.046b4eed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27236406.js",
+    "static/js/2.046b4eed.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.bbd7c9ba.chunk.js"
+  ]
+}
