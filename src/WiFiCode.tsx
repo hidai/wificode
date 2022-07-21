@@ -17,7 +17,7 @@ const useStyles = makeStyles((theme) => ({
     margin: theme.spacing(1),
   },
   code: {
-    margin: theme.spacing(1),
+    margin: theme.spacing(5),
   },
 }));
 
@@ -41,6 +41,7 @@ function WiFiCode() {
       <div className={classes.code} style={{opacity: (ssid && pass) ? 1 : 0.1}}>
         <QRCode value={code} />
       </div>
+      <Typography variant="caption">ESSIDおよびパスワードがクッキーやクラウドに保存されることはありません。</Typography>
     </div>
   );
 }
