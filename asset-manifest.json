@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wificode/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/wificode/static/js/main.bbd7c9ba.chunk.js",
-    "main.js.map": "/wificode/static/js/main.bbd7c9ba.chunk.js.map",
+    "main.js": "/wificode/static/js/main.c387f5b5.chunk.js",
+    "main.js.map": "/wificode/static/js/main.c387f5b5.chunk.js.map",
     "runtime-main.js": "/wificode/static/js/runtime-main.27236406.js",
     "runtime-main.js.map": "/wificode/static/js/runtime-main.27236406.js.map",
     "static/js/2.046b4eed.chunk.js": "/wificode/static/js/2.046b4eed.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.27236406.js",
     "static/js/2.046b4eed.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.bbd7c9ba.chunk.js"
+    "static/js/main.c387f5b5.chunk.js"
   ]
 }
